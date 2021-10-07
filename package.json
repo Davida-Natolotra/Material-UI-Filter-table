@@ -1,0 +1,28 @@
+{
+  "title": "Material demo",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "main": "index.tsx",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": null,
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "4.11.2",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "filter-material-ui": "2.7.0",
+    "material-ui-search-bar": "1.0.0",
+    "react": "latest",
+    "react-dom": "latest",
+    "typescript": "latest"
+  },
+  "keywords": [],
+  "name": "material-ui-table-search-demo-forked",
+  "version": "0.0.0"
+}
